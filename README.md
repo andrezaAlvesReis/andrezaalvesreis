@@ -1,12 +1,22 @@
-### Hi, I'm Andreza Reis
+Olá, eu sou Andreza Reis! 👋
 
+Sobre Mim
+- 👩‍💻 Atualmente estou cursando Ciência da Computação.
+- 📚 Nas horas vagas, gosto de ler livros, assistir séries e filmes.
+- 💻 Minha linguagem de programação favorita é JavaScript.
+- 🧰 Estou estudando HTML, CSS, JavaScript, TypeScript, Node.js e Banco de Dados no Programa Starter da Growdev.
+- 🖥️ Tenho 8 meses de experiência profissional como Analyst Service Desk.
 
- - 🔭 Student - Computer Science.
- - 🌱 Student - Growdev -1° Edition - Starter+ Program - 2022.
- - 😍 Technician - Systems Development - bilingual
- - 🤞 Studying JavaScript.
- - ✔ Html / Css
- - 💋 Pronouns: she/it
+📚Tecnologias que Estou Estudando
+- HTML
+- CSS
+- JavaScript
+- TypeScript
+- Node.js
+- Banco de Dados
+
+Fique à vontade para explorar meus repositórios e projetos! 😊
+
 
 <div align="center">
   <a href="https://github.com/andrezaalvesreis">
