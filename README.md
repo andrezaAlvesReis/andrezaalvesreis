@@ -5,7 +5,7 @@ Sobre Mim
 - 📚 Nas horas vagas, gosto de ler livros, assistir séries e filmes.
 - 💻 Minha linguagem de programação favorita é JavaScript.
 - 🧰 Estou estudando HTML, CSS, JavaScript, TypeScript, Node.js e Banco de Dados no Programa Starter da Growdev.
-- 🖥️ Tenho 8 meses de experiência profissional como Analyst Service Desk.
+
 
 📚Tecnologias que Estou Estudando
 - HTML
