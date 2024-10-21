@@ -1,7 +1,7 @@
 Olá, eu sou Andreza Reis! 👋
 
 Sobre Mim
-- 👩‍💻 Atualmente estou cursando Ciência da Computação.
+- 👩‍💻 Cursando Análise e desenvolvimente de Sistema.
 - 📚 Nas horas vagas, gosto de ler livros, assistir séries e filmes.
 - 💻 Minha linguagem de programação favorita é JavaScript.
 - 🧰 Estou estudando HTML, CSS, JavaScript, TypeScript, Node.js e Banco de Dados no Programa Starter da Growdev.
